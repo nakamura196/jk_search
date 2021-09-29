@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Japan Knowledge 検索",
+  "version": "1.0",
+  "description": "選択したテキストをJapan Knowledgeで検索します。",
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "permissions": ["tabs", "contextMenus", "storage"]
+}
