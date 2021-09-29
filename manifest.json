@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Japan Knowledge 検索",
-  "version": "1.1",
+  "version": "1.2",
   "description": "選択したテキストをJapan Knowledgeで検索します。",
   "options_page": "options.html",
   "background": {
